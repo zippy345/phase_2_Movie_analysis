@@ -34,7 +34,7 @@ We use datasets from either of:
 ##  Step 5 : EDA ANALYSIS
 ### Univariate analysis
 * plot a bar that contains count of genres and retrieve top 10 genres.
-*plot a time trend of the movie production yearly
-*plot seasonal time trend of the movie production
-*plot the top 5 languages used in movie production
+* plot a time trend of the movie production yearly
+* plot seasonal time trend of the movie production
+* plot the top 5 languages used in movie production
 # NB// here is the tableau dashboard [link](https://public.tableau.com/app/profile/wawira.muriithi/viz/Phase2movieproject/Moviesummary)
