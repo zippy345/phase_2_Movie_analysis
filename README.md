@@ -1,4 +1,4 @@
-# phase_2_Movie_analysis
+# 🎬 Movie Performance Analysis: What Types of Movies Succeed at the Box Office?
 ## Step 1: Business Understanding
 A company wants to start a new movie studio,they want to identify which types of films perform best at the box office in order to make informed decisions about what movies to produce.
 ### Project Objective:
