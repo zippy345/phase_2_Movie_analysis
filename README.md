@@ -38,3 +38,5 @@ We use datasets from either of:
 * plot seasonal time trend of the movie production
 * plot the top 5 languages used in movie production
 # NB// here is the tableau dashboard [link](https://public.tableau.com/app/profile/wawira.muriithi/viz/Phase2movieproject/Moviesummary)
+* And the non-technical presentation pdf [link]("C:\Users\Admin\Downloads\Movie Analysis  Project Presentation.pdf")
+
